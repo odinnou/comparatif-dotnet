@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinMarket.API.UnitTests", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinMarket.API.IntegrationTests", "test\CoinMarket.API.IntegrationTests\CoinMarket.API.IntegrationTests.csproj", "{77DA52DB-227B-4BE3-8901-8310F36F44D7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "uselessfolder", "uselessfolder", "{539785EC-C776-4086-BFA6-BE757DA38286}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "inneruselessfolder", "inneruselessfolder", "{46B440DE-A642-4F15-9BCE-E82524C44997}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +56,7 @@ Global
 		{DCFE3CD5-217E-4A6A-A5A1-95D7772A6A0F} = {6CD232AB-3C02-46F3-B45D-15955F4449A7}
 		{9D494BAE-F45B-4811-B8EF-28CE6AB8FBAD} = {971ECC72-E479-4407-87D5-B8FC34FD4276}
 		{77DA52DB-227B-4BE3-8901-8310F36F44D7} = {971ECC72-E479-4407-87D5-B8FC34FD4276}
+		{46B440DE-A642-4F15-9BCE-E82524C44997} = {539785EC-C776-4086-BFA6-BE757DA38286}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {23706D18-C005-423F-990D-11FAD9D9AAA4}
